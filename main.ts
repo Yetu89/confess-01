@@ -29,7 +29,9 @@
 // honesty first, then the laugh, then a single line that works hard.
 // Grok (grok-4.3) scored this candidate 9/10, the highest of the
 // shortlist, and the wording below is the wording that was selected —
-// it has not been trimmed, reworded, or polished since.
+// it has not been trimmed, reworded, or polished since. At 143
+// characters it sits comfortably inside the 200-character gate, so no
+// length trade-off was ever needed.
 //
 // ============================================================================
 // GATE RULES — WHAT THE ENTRY MUST SATISFY
